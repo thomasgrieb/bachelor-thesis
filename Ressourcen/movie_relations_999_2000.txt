@@ -1,0 +1,965 @@
+<Gummo|Spielfilm|N/A|USA|1997>
+<Das Meer in mir|Film|N/A|N/A|1943>
+<Der Fall Paradin|Spielfilm|Kriminal|N/A|1947>
+<Krieg der Welten|Kinofilm|N/A|USA|2006>
+<Die Geister, die ich rief…|Film|Komödie|USA|1988>
+<Eva|Film|N/A|Deutschland|1984>
+<Dracula|Film|Horror|Großbritannien|1958>
+<Rosemaries Baby|Film|Horror|USA|1968>
+<Das blaue Licht|Film|Berg|N/A|1932>
+<Eiskalte Engel|Film|N/A|N/A|1999>
+<Sklavin des Herzens|Spielfilm|N/A|Deutschland|1949>
+<Basil, der große Mäusedetektiv|Film|Zeichentrick|N/A|1986>
+<Gorillas im Nebel|Spielfilm|N/A|USA|1988>
+<Im Schatten des Zweifels|Spielfilm|N/A|N/A|1943>
+<Giganten|Spielfilm|Drama|USA|1956>
+<Saboteure|Spielfilm|N/A|USA|1942>
+<Thor|Film|Komödie|Deutschland|1999>
+<Was nicht passt, wird passend gemacht|Film|Komödie|Deutschland|2002>
+<Die kleine Lampe|Kurzfilm|N/A|N/A|1986>
+<Otto – Der <FILMTYPE>Film</FILMTYPE>|Film|Komödie|Deutschland|1985>
+<Heavenly Creatures|Kinofilm|N/A|N/A|1994>
+<Thirteen Days|Spielfilm|Doku/Drama/Dokumentation|USA|2000>
+<MASH|Spielfilm|Antikriegs|Irland|N/A>
+<Crocodile Dundee – Ein Krokodil zum Küssen|Film|Komödie|Australien|1986>
+<Dumpfbacke|Film|N/A|N/A|1968>
+<Der Zug|Film|Kriegs|USA|1964>
+<Kagemusha – Der Schatten des Kriegers|Film|Historien|Japan|1980>
+<Leo und Claire|Kinofilm|N/A|Deutschland|2001>
+<Das Appartement|Film|N/A|N/A|1960>
+<Edel & Starck|Film|Screwball-Komödie|Deutschland|2002>
+<William Shakespeares Romeo + Julia|Film|Drama|Deutschland|1996>
+<Extrablatt|Film|N/A|N/A|1974>
+<Sweet Charity|Film|Musical|N/A|1957>
+<Das Mädchen Irma la Douce|Film|Komödie/Musical|USA|1963>
+<Kops|Film|N/A|N/A|N/A>
+<Alice lebt hier nicht mehr|Film|Drama|USA|1974>
+<Der Glückspilz|Spielfilm|N/A|USA|1966>
+<Face|Film|Zeichentrick|Deutschland|1943>
+<Koksijde|N/A|N/A|Belgien|2004>
+<Das verlorene Wochenende|Spielfilm|N/A|USA|1945>
+<Woyzeck|Spielfilm|N/A|N/A|1979>
+<Die bleierne Zeit|Spielfilm|Drama/Biografie|Deutschland|1981>
+<The Harder They Come|Kinofilm|N/A|Jamaika|1972>
+<Mulan|Film|Zeichentrick|China|1998>
+<Merlin|N/A|N/A|Großbritannien|1998>
+<Return Engagement|Spielfilm|N/A|N/A|1990>
+<Fedora|Film|N/A|N/A|1978>
+<Das verflixte 7. Jahr|Film|N/A|N/A|1955>
+<Ray|Film|Drama/Biografie|USA|2004>
+<Buddy Buddy|Spielfilm|Gangster|USA|1973>
+<Girls Club – Vorsicht bissig!|Film|Komödie|N/A|2004>
+<Legend of Crystania|Film|Anime/Fantasy/Abenteuer|N/A|1995>
+<Reporter des Satans|Film|N/A|USA|1951>
+<The Scorpion King|Spielfilm|N/A|N/A|2002>
+<Legend of Crystania|Film|Anime/Abenteuer|Japan|1996>
+<Irgendwann in Mexico|Film|Action|Mexiko|2003>
+<Lindbergh – Mein Flug über den Ozean|Film|Abenteuer|USA|1957>
+<Die <GENRE>Abenteuer</GENRE> des Odysseus|Fernsehfilm|Abenteuer|Griechenland|1997>
+<Leoparden küßt man nicht|Film|N/A|USA|1938>
+<Das Boot ist voll|Film|N/A|N/A|1942>
+<N/A|Film|Abenteuer/Fantasy|USA|2000>
+<Robots|Film|Computeranimations|N/A|2005>
+<Nanuk, der Eskimo|Film|Dokumentar/Stumm|USA|1922>
+<Nixon|Film|Biografie|USA|1995>
+<Jenseits von Afrika|Spielfilm|N/A|USA|1985>
+<Erin Brockovich|Film|N/A|N/A|2000>
+<In der Hitze der Nacht|Spielfilm|N/A|USA|1967>
+<Stauffenberg|Fernsehfilm|Kriegs|Deutschland|2004>
+<WarGames – <GENRE>Kriegs</GENRE>spiele|Film|Kriegs|USA|1983>
+<16 Uhr 50 ab Paddington|Film|Kriminal|Großbritannien|1961>
+<Der Wachsblumenstrauß|Film|Kriminal|England|1963>
+<Vier Frauen und ein Mord|Film|Kriminal|England|1964>
+<Kleine Fluchten|Film|N/A|N/A|N/A>
+<Demolition Man|Film|Science-Fiction/Action|N/A|1993>
+<Gefährliche Liebschaften|Film|Drama|Großbritannien|1988>
+<Sodom und Gomorrha|Film|Monumental/Liebes|N/A|1962>
+<Breaking the Waves|Film|N/A|Dänemark|1970er>
+<Kes|Film|Drama|Großbritannien|1969>
+<Soulsonic Force|Film|N/A|N/A|N/A>
+<Der Dieb von Bagdad|Film|Fantasy/Abenteuer/Märchen|N/A|1940>
+<Ganz oder gar nicht|Film|Komödie|England|1997>
+<Die Bibel – Jesus|Film|N/A|Deutschland|1999>
+<Unternehmen Capricorn|Film|Science-Fiction|USA|1978>
+<Heaven’s Gate|N/A|Spätwestern|USA|1980>
+<Die Bibel – Paulus|Fernsehfilm|Drama|N/A|N/A>
+<<GENRE>Trash</GENRE>|Film|Trash|USA|1970>
+<Messidor|Film|Abenteuer|N/A|1979>
+<Charles – tot oder lebendig|Film|N/A|N/A|1969>
+<Der Herr Kanzleirat|Film|N/A|N/A|1948>
+<24 Hour Party People|Film|N/A|Großbritannien|2002>
+<Alexis Sorbas|Film|N/A|Griechenland|1946>
+<Der Messias|Film|N/A|N/A|1976>
+<Titanic|Film|N/A|Großbritannien|1943>
+<Gankutsuō|N/A|Anime|Japan|2004>
+<Das Wiegenlied vom Totschlag|N/A|Western|USA|1970>
+<Schule|Film|N/A|Deutschland|2000>
+<Prinz in Hölleland|Film|N/A|N/A|1990er>
+<Der Untergang der Titanic|Film|Drama|USA|1953>
+<Britannic|Film|N/A|N/A|2000>
+<Jack Point Jack|Spielfilm|N/A|Deutschland|2002>
+<Polizei|Film|N/A|Australien|1989>
+<Sideways|Spielfilm|N/A|USA|2004>
+<Filmabtaster|Film|N/A|N/A|N/A>
+<Das Johannes-Evangelium|Film|N/A|N/A|N/A>
+<Wo warst Du als das Licht ausging?|Kinofilm|N/A|England|1968>
+<Das Phantom|Film|Politthriller|N/A|2000>
+<Netto|Spielfilm|N/A|Deutschland|2005>
+<Oldboy|Kinofilm|N/A|Südkorea|2003>
+<Heffalump – Ein neuer Freund für Winnie Puuh|Film|Zeichentrick/Abenteuer|N/A|N/A>
+<GoldenEye 007|Film|N/A|Großbritannien|1997>
+<Barfuss|Film|Liebes|N/A|2005>
+<Königreich der Himmel|Film|Monumental|N/A|2005>
+<Die Tiefseetaucher|Film|Dokumentar|N/A|2004>
+<Armageddon – Das jüngste Gericht|Film|Katastrophen|USA|1998>
+<Signs – Zeichen|Film|Science-Fiction|USA|2002>
+<The Devil in Miss Jones|Film|Porno|USA|1973>
+<Das Wunder in der 8. Straße|Film|N/A|N/A|1987>
+<Hook|Film|Fantasy|USA|1991>
+<Exodus|Spielfilm|Monumental|USA|1960>
+<Quest|Film|Trick|Deutschland|1996>
+<The Cell|Film|SciFi/Thriller|N/A|2000>
+<Enemy|Film|Science-Fiction|Deutschland|1985>
+<Die Bibel – Jeremia|Fernsehfilm|N/A|N/A|N/A>
+<Spanglish|Film|Komödie|USA|2004>
+<Die Farbe des Geldes|Film|N/A|N/A|1986>
+<Der Schatz der Sierra Madre|Spielfilm|N/A|USA|1948>
+<Amistad|Film|Drama|Spanien|1997>
+<Das Tagebuch der Anne Frank|Film|Drama|Großbritannien|1987>
+<Das Tagebuch der Anne Frank|Spielfilm|Drama|USA|1959>
+<Erbarmungslos|Film|Spätwestern|USA|1992>
+<Last <GENRE>Action</GENRE> Hero|Film|Action/Parodie|USA|1993>
+<Die Nichte – Hitlers verbotene Liebe|Film|Historien|Großbritannien|2005>
+<Schneller als der Tod|N/A|Western|USA|1995>
+<Ich bin immer für Dich da!|Film|Bollywood|Indien|2004>
+<Ali|Film|Bollywood|Indien|2003>
+<Oktober|Film|N/A|Indien|1995>
+<Dienst|Film|N/A|N/A|N/A>
+<Excalibur|Film|Fantasy|Großbritannien|1981>
+<Sweet and Lowdown|Kinofilm|Tragikomödie|N/A|1999>
+<Das Geheimnis von Green Lake|Verfilmung|N/A|USA|2003>
+<Indien|Film|Bollywood|N/A|2004>
+<Jeffrey|Film|Tragikomödie|N/A|1995>
+<Brassed Off – Mit Pauken und Trompeten|N/A|Tragikomödie/Heimat|Großbritannien|1996>
+<Der Krieger und die Kaiserin|Film|N/A|Deutschland|2000>
+<Time Bandits|Film|Fantasy|Großbritannien|1981>
+<Der Clown|Film|N/A|Deutschland|1996>
+<König der Fischer|Spielfilm|N/A|Großbritannien|1991>
+<Nur Mut, Jimmy Grimble|Film|N/A|Deutschland|2000>
+<In the Bedroom|Spielfilm|Independent/Drama|USA|2001>
+<Wolfram Paulus|Film|N/A|Österreich|1957>
+<Die kluge kleine Henne|Film|Zeichentrick|USA|1934>
+<Basic Instinct|Film|Erotikthriller|USA|1992>
+<Tsubasa – Reservoir Chronicle|Kinofilm|Anime|N/A|N/A>
+<Vidocq|Film|Mystery/Thriller/Kriminal|Frankreich|2001>
+<Westworld|Film|Science-Fiction|USA|1973>
+<Showgirls|Spielfilm|N/A|USA|1995>
+<Ein perfekter Ehemann|Film|Komödie|England|1999>
+<Les Misérables – Gefangene des Schicksals|Verfilmung|Literaturverfilmung|N/A|N/A>
+<Die Mumie|Film|Abenteuer/Horror|USA|1999>
+<Die unteren Zehntausend|Spielfilm|N/A|USA|1961>
+<28 Days Later|Film|Horror/Thriller|Großbritannien|2002>
+<Was vom Tage übrig blieb|Spielfilm|N/A|USA|1993>
+<Sam|Film|Action|USA|2002>
+<Wiegenlied für eine Leiche|Film|Kriminal/Horror/Drama|N/A|1964>
+<Familiensache|Film|Drama|USA|1998>
+<Out of Rosenheim|Kinofilm|N/A|Deutschland|1987>
+<Das Fest|Spielfilm|N/A|Dänemark|N/A>
+<Die Mumie|Film|Horror|USA|1932>
+<Tampopo|Film|Komödie|Japan|1985>
+<Frances|Film|N/A|Australien|1982>
+<Resident Evil|Film|Horror/Action|N/A|2002>
+<Rejs|Spielfilm|N/A|Polen|1970>
+<Jeder stirbt für sich allein|Film|N/A|N/A|1975>
+<Dawn of the Dead|Film|Horror/Zombie|USA|2004>
+<Land of the Dead|Film|Horror/Zombie|USA|2005>
+<Das Mädchen am Ende der Straße|Spielfilm|Literaturverfilmung/Krimi/Thriller|Kanada|1976>
+<The Man Who Wasn’t There|Spielfilm|Drama/ noir|USA|2001>
+<Fantasia 2000|Film|Zeichentrick|USA|1999>
+<Her|Film|Bollywood/Musical|Indien|1997>
+<Die Brücke von Arnheim|Spielfilm|Kriegs|Deutschland|1977>
+<Funny Girl|Film|Musical|USA|1968>
+<Der Löwe im Winter|Film|N/A|Großbritannien|1968>
+<Mesmer|Spielfilm|N/A|N/A|N/A>
+<Orfeu Negro|Film|N/A|Frankreich|1959>
+<Ran|Film|Jidai-geki/Historien/Kriegs|Japan|1985>
+<Das Messer im Wasser|Spielfilm|Psychothriller|Polen|1962>
+<Wer den Wind sät|Spielfilm|N/A|USA|1960>
+<Die Kinder des Monsieur Mathieu|Kinofilm|N/A|Frankreich|2004>
+<Go Trabi Go|Film|Komödie|Deutschland|1991>
+<Spider-Man 2|Film|Action|USA|2004>
+<Uzumaki|Spielfilm|Horror|Japan|2000>
+<3 Engel für Charlie|Film|Action|N/A|2000>
+<Wild Style|Film|N/A|Japan|1983>
+<Angel|Spielfilm|N/A|USA|1998>
+<Besser als Schule|Film|Komödie|Deutschland|2004>
+<Monsoon Wedding|Film|N/A|N/A|2000>
+<Rasputin|Fernsehfilm|N/A|USA|N/A>
+<Indien|Film|Bollywood/Romanze|Deutschland|2002>
+<Suzhou River|Film|Liebes|N/A|2000>
+<Lord of the Dance|N/A|N/A|Irland|1996>
+<Rumble Fish|Film|N/A|USA|1983>
+<Showdown|Film|N/A|N/A|2002>
+<Insomnia – Schlaflos|Film|Thriller|USA|2002>
+<Die besten Jahre unseres Lebens|Spielfilm|N/A|N/A|1946>
+<Ghost in the Shell 2 – Innocence|Film|Anime|N/A|2004>
+<Mrs. Doubtfire – Das stachelige Kindermädchen|Film|Komödie|USA|1993>
+<Independence Day|Film|Science-Fiction|USA|1996>
+<The Village – Das Dorf|Spielfilm|Drama/Mystery/Thriller|USA|2004>
+<Sweet Home|Film|Komödie|USA|2002>
+<Heathers|Film|Komödie|USA|1989>
+<Down by Law|Spielfilm|N/A|USA|1986>
+<Der Leopard|Spielfilm|N/A|Frankreich|1963>
+<Meatrix|Film|Trick/Parodie/Science-Fiction|N/A|2003>
+<Satan der Rache|Film|Western|Italien|1969>
+<Intimitäten|Film|Dokumentar/Porno|N/A|2003>
+<Wild Style|Film|N/A|N/A|1983>
+<Blair Witch Project|Film|Horror|USA|1998>
+<Mephisto|Film|Drama|Deutschland|1981>
+<Stalingrad|Film|Kriegs|Deutschland|1993>
+<Gimme Shelter|Film|Musik|N/A|1969>
+<Deep Impact|Film|Katastrophen|N/A|1998>
+<Poppitz|Film|Komödie|Österreich|2002>
+<Hinterholz 8|Film|Komödie|Österreich|1998>
+<Veer und Zaara – Die Legende einer Liebe|Film|Bollywood/Liebes|England|2004>
+<Von ganzem Herzen|Film|Bollywood|Deutschland|1998>
+<<GENRE>Heimat</GENRE>|Film|Heimat/Bollywood|USA|2004>
+<Straßen in Flammen|Film|Action|N/A|1984>
+<All die schönen Versprechungen|Film|Drama|Frankreich|2003>
+<Coyote Ugly|Film|N/A|N/A|2000>
+<Ghost World|Film|N/A|N/A|2001>
+<Fear and Desire|Spielfilm|Kriegs/Drama|USA|1953>
+<Zwei Banditen|Film|Western/Komödie|Deutschland|1969>
+<Uprising – Der Aufstand|Fernsehfilm|N/A|USA|2001>
+<Das Millionenspiel|Fernsehfilm|N/A|USA|1970>
+<Salomon und die Königin von Saba|Film|Monumental|N/A|1959>
+<Arche Noah – Das größte <GENRE>Abenteuer</GENRE> der Menschheit|Film|Abenteuer|N/A|1999>
+<Die letzte Nacht der Titanic|Film|N/A|Großbritannien|1958>
+<Station Agent|Spielfilm|N/A|N/A|2003>
+<Die Apothekerin|Spielfilm|N/A|Deutschland|1997>
+<Ein Amerikaner in Paris|Film|Musical|USA|1951>
+<Michael Bay’s Texas Chainsaw Massacre|Film|Horror|USA|2003>
+<Sleepers|Film|Drama|USA|1996>
+<Freeze Frame|Film|Action|N/A|1970er>
+<Mosquito Coast|Spielfilm|N/A|USA|1986>
+<Die Frauen von Stepford|Film|N/A|USA|1972>
+<Spielen wir Liebe|Film|Drama|Italien|1977>
+<Mr. Smith geht nach Washington|Spielfilm|N/A|USA|1939>
+<Duell – Enemy at the Gates|Film|Kriegs|N/A|2001>
+<Gier|Film|Stumm|N/A|N/A>
+<Das Traumschiff|Film|N/A|N/A|1981>
+<Herbststürme|Spielfilm|N/A|USA|1956>
+<Die Rache des Würgers|Film|Horror|USA|1955>
+<The Annunciation|Film|N/A|N/A|N/A>
+<Convoy|Film|Roadmovie|N/A|1978>
+<Die innere Sicherheit|Spielfilm|N/A|Deutschland|2000>
+<Blacksmith Scene|Film|N/A|USA|1893>
+<Queen Kelly|Spielfilm|Stumm|N/A|1928>
+<Wolfen|Film|N/A|N/A|1909>
+<Dinner für Spinner|Film|Komödie|Frankreich|1998>
+<Boogie Nights|Spielfilm|Porno|USA|1997>
+<ABBA – Der <FILMTYPE>Film</FILMTYPE>|Film|N/A|Schweden|1977>
+<Sommersturm|Spielfilm|Heimat|N/A|N/A>
+<Stromboli|Spielfilm|N/A|Italien|1949>
+<November|Kinofilm|N/A|Deutschland|2002>
+<King Kong|Film|Abenteuer/Horror/Fantasy|USA|1976>
+<Julia und die Geister|Film|N/A|N/A|1965>
+<Chinatown|Film|Kriminal|USA|1974>
+<Lawrence von Arabien|Film|Kriegs|N/A|1962>
+<Europa|Film|N/A|N/A|1970>
+<Alice im Wunderland|Film|Märchen|N/A|1999>
+<Frankie und seine Spießgesellen|Film|Komödie|Deutschland|1960>
+<Wie verrückt und aus tiefstem Herzen|Film|Tragikomödie|England|N/A>
+<Blutgericht in Texas|Film|Horror|USA|1974>
+<Wolffs Revier|Film|Krimi/Kriminal|Deutschland|1992>
+<Hitler – Die letzten zehn Tage|Film|Historien|N/A|1973>
+<Eine Frage der Ehre|Spielfilm|N/A|USA|1992>
+<Onkel Remus’ Wunderland|Film|Trick/Musical|N/A|1946>
+<Die Sehnsucht der Veronika Voss|Spielfilm|N/A|Deutschland|1982>
+<Irezumi – Die tätowierte Frau|Film|N/A|Japan|1981>
+<Algol|Spielfilm|N/A|Deutschland|1920>
+<Taxi zum Klo|Film|Liebes|N/A|1980>
+<Das Tribunal|Film|Kriegs|USA|2002>
+<Das schwarze Schaf|Film|Kriminal|Österreich|1960>
+<Madeleine und der Legionär|Film|N/A|Deutschland|N/A>
+<Nine Months|Neuverfilmung|Komödie|USA|1995>
+<Garden State|Spielfilm|N/A|Deutschland|2004>
+<36 Crazyfists|Film|N/A|N/A|1977>
+<Dante’s Peak|Film|Katastrophen|USA|1997>
+<Warum läuft Herr R. Amok?|Film|N/A|N/A|1970>
+<Michael|Spielfilm|N/A|Großbritannien|2002>
+<Transamerica|Spielfilm|Tragikomödie/Independent|USA|2005>
+<Cocoon|Film|Science-Fiction/Drama|N/A|1985>
+<Barabbas|Film|Historien|Italien|1962>
+<Blinde Ehemänner|Film|Drama|USA|1919>
+<Woodstock|Film|Dokumentar|N/A|N/A>
+<The Player|Film|Komödie|USA|1992>
+<Angélique|Spielfilm|N/A|Frankreich|1964>
+<Kevin – Allein zu Haus|Film|Komödie|N/A|1990>
+<Ein Lied von Liebe und Tod – Gloomy Sunday|Spielfilm|Drama|Deutschland|1999>
+<Cocoon II – Die Rückkehr|Film|Science-Fiction/Drama|N/A|1988>
+<Die Geisha|Film|Drama|N/A|2005>
+<Almost Famous – Fast berühmt|Film|N/A|N/A|2000>
+<Notting Hill|Film|Komödie|USA|1999>
+<Das Comeback|Spielfilm|N/A|N/A|1933>
+<Legende|Fernsehfilm|N/A|N/A|1983>
+<Jesus Christ Superstar|Film|Musical|USA|1973>
+<Samurai Fiction|Film|Jidai-geki|N/A|N/A>
+<Indien|Film|Roadmovie|Österreich|1993>
+<Basic – Hinter jeder Lüge eine Wahrheit|N/A|Thriller|N/A|2003>
+<Salome|Film|Monumental/Drama|USA|1953>
+<Das süße Leben|Film|N/A|N/A|1960>
+<Luftschlacht um England|Film|Kriegs|Großbritannien|N/A>
+<Waking Life|Film|Animations|Deutschland|2001>
+<Darsteller|Film|Komödie|Deutschland|2004>
+<Joseph and the Amazing Technicolor Dreamcoat|Verfilmung|Musical|N/A|1999>
+<Gold|Film|N/A|N/A|2004>
+<Die Ehre der Prizzis|Film|Komödie|USA|1985>
+<Der Ring des Drachen|Film|Märchen|Italien|1994>
+<Das Geheimnis der grünen Stecknadel|Film|Kriminal|Italien|1971>
+<Yes Boss|Film|Bollywood/Komödie|Indien|1997>
+<Congo|Film|N/A|N/A|1995>
+<Yojimbo – Der Leibwächter|Spielfilm|Italo-Western|N/A|1961>
+<Magnolien aus Stahl|Film|N/A|USA|1989>
+<Die Akte Jane|Film|N/A|USA|1997>
+<Her|Film|Bollywood|N/A|2001>
+<Die Spielhölle von Macao|Spielfilm|N/A|Frankreich|1939>
+<The Mask of Diijon|Film|Horror|N/A|1945>
+<Zoo|Film|Drama/Biografie|Deutschland|1981>
+<Spuk unterm Riesenrad|Kinofilm|N/A|N/A|1979>
+<Kick it like Beckham|Film|Komödie|Großbritannien|2002>
+<Die Nebel von Avalon|Film|Fantasy|Deutschland|2001>
+<Zuckerbaby|N/A|Komödie|Deutschland|1985>
+<Sister Act – Eine himmlische Karriere|Film|Komödie/Musical|N/A|1992>
+<Die Unzertrennlichen|Spielfilm|Horror|Kanada|1988>
+<Die neun Pforten|Film|Mystery/Thriller|N/A|1999>
+<Die Journalistin|Film|N/A|N/A|2003>
+<The Arrival – Die Ankunft|Film|N/A|N/A|1996>
+<The Return – Die Rückkehr|Film|Drama|Russland|2003>
+<God’s Army – Die letzte Schlacht|Film|Thriller|N/A|1995>
+<Europa|Spielfilm|N/A|Dänemark|1991>
+<Robin Hood – König der Diebe|Film|Abenteuer/Kriegs|USA|1991>
+<Der Marathon-Mann|Spielfilm|N/A|USA|1976>
+<Hotel New Hampshire|Film|Tragikomödie|N/A|1984>
+<Angeklagt|Film|Drama|USA|1988>
+<Pink Cadillac|Film|Komödie|Deutschland|1990>
+<Planet der Affen|Film|Science-Fiction|N/A|2001>
+<Die Schlacht um den Planet der Affen|Film|Science-Fiction|N/A|1973>
+<Fünf Gräber bis Kairo|Film|Kriegs|USA|1943>
+<Eroberung vom Planet der Affen|Film|Science-Fiction|N/A|1972>
+<Das Gasthaus an der Themse|Film|Kriminal|Deutschland|1962>
+<Wiedersehen in Howards End|Spielfilm|N/A|Großbritannien|1992>
+<Magister Negi Magi|Kinofilm|Anime|Japan|N/A>
+<Der Besessene|Film|Western|N/A|N/A>
+<Kaffee, Milch und Zucker|Spielfilm|N/A|USA|1995>
+<Leben!|Film|N/A|China|1994>
+<Die Goonies|Film|Abenteuer|N/A|1985>
+<Windtalkers|Film|Kriegs|Japan|2002>
+<Andromeda – Tödlicher Staub aus dem All|Film|Science-Fiction|N/A|N/A>
+<Düstere Legenden|Film|Horror|N/A|1998>
+<Kes|Spielfilm|N/A|Frankreich|1967>
+<Nur dein Herz kennt die Wahrheit|Film|Bollywood|Indien|2003>
+<George|Film|Dokumentar|Kanada|1941>
+<Gute Reise|Film|Propaganda/Kriegs|Großbritannien|1944>
+<Eis am Stiel|Spielfilm|Komödie|Israel|1978>
+<Leise Schatten|Film|N/A|N/A|1991>
+<Der Flug des Phoenix|Spielfilm|N/A|N/A|N/A>
+<Das Haus in Montevideo|Verfilmung|N/A|N/A|1951>
+<Sin City|Film|N/A|N/A|2005>
+<Mifune – Dogma III|Film|N/A|Dänemark|1998>
+<Das <GENRE>Liebes</GENRE>dreieck|Film|Liebes/Bollywood|N/A|2001>
+<Eine ganz normale Familie|Film|Drama|USA|1980>
+<Der Tag, an dem Christus starb|Fernsehfilm|N/A|USA|1980>
+<Toon|Kinofilm|N/A|N/A|1981>
+<Batman|Verfilmung|N/A|N/A|1989>
+<Fantastic Four|Film|Action|N/A|2005>
+<Wohlfahrtsmarke Audrey Hepburn|Film|N/A|N/A|2001>
+<Anna – Der <FILMTYPE>Film</FILMTYPE>|Film|N/A|N/A|1988>
+<Batman Begins|Verfilmung|Comic|USA|2005>
+<Oi!Warning|Spielfilm|N/A|Deutschland|2000>
+<Ich weiß, was du letzten Sommer getan hast|Film|Horror|USA|1997>
+<Inspector Clouseau – Der irre Flic mit dem heißen Blick|Film|N/A|Deutschland|1978>
+<Ich weiß noch immer, was du letzten Sommer getan hast|Film|Horror|N/A|1998>
+<The Untouchables – Die Unbestechlichen|Film|Kriminal|N/A|1987>
+<Gremlins – Kleine <GENRE>Monster</GENRE>|Film|Monster/Horrorkomödie|Deutschland|1984>
+<Antikörper|Film|Thriller|Deutschland|2005>
+<Samaria|Film|N/A|N/A|2004>
+<Der Bogen|Spielfilm|N/A|Südkorea|2005>
+<Lost Highway|Spielfilm|Psychothriller/Horror|USA|1996>
+<Gottes Werk & Teufels Beitrag|N/A|Literaturverfilmung|N/A|1939>
+<Hercules in New York|Spielfilm|B-Movie|USA|1969>
+<Italienisch für Anfänger|Film|N/A|Dänemark|2000>
+<Brokedown Palace|Film|Drama|USA|1999>
+<Die kleinen Strolche|Kurzfilm|Abenteuer/Komödie|USA|1922>
+<Im Rausch der Tiefe|Spielfilm|Drama/Biographie|Frankreich|1988>
+<Der Sturm|Film|Katastrophen|N/A|2000>
+<<GENRE>Monster</GENRE>|Kinofilm|Monster|USA|2003>
+<Lautlos im Weltraum|Film|Science-Fiction|USA|1971>
+<Kopfgeld – Einer wird bezahlen|Neuverfilmung|Action|USA|1996>
+<À travers la forêt|Film|N/A|Frankreich|2005>
+<47 Ronin|Film|Historien|Japan|1994>
+<Naked Lunch|Spielfilm|N/A|Großbritannien|1991>
+<Sachsens Glanz und Preußens Gloria|Fernsehfilm|N/A|N/A|1989>
+<Der Duft der Frauen|Film|Literaturverfilmung|N/A|1992>
+<Titan A.E.|Film|Science-Fiction/Zeichentrick|USA|2000>
+<Gefährliche Brandung|Film|Action|N/A|1991>
+<Für immer und ewig|Film|N/A|N/A|2002>
+<Low-Budget-Film|Film|N/A|N/A|1940er>
+<<GENRE>Monster</GENRE>’s Ball|Film|Monster/Independent/Drama|Deutschland|2001>
+<Die große Illusion|Spielfilm|Kriegs|Frankreich|1937>
+<Lulu on the Bridge|Film|N/A|N/A|1998>
+<Pretty Baby|Spielfilm|N/A|N/A|1978>
+<Heimlich, still und leise|Kinofilm|N/A|Italien|1989>
+<Der Neue|Film|N/A|N/A|1960er>
+<Once Upon a Time in China|Film|Wuxia|Deutschland|1991>
+<Wer mit dem Teufel reitet|Film|N/A|USA|1999>
+<Ludwig van B. – Meine unsterbliche Geliebte|Spielfilm|Biografie|Großbritannien|1994>
+<Sweet Sixteen|Film|N/A|Großbritannien|2002>
+<Helden|Film|N/A|England|1958>
+<Lola|Film|N/A|N/A|1981>
+<Das Rettungsboot|Spielfilm|N/A|Deutschland|1943>
+<Marion Cotillard|Spielfilm|N/A|Frankreich|1975>
+<Mein Kampf|Film|Dokumentar|N/A|1933>
+<Halbe Treppe|Film|Tragikomödie|Deutschland|2002>
+<Kundun|Film|N/A|USA|1997>
+<Hudsucker – Der große Sprung|Film|N/A|N/A|1994>
+<Der Knochenjäger|Film|Thriller|N/A|1999>
+<Jagd auf Roter Oktober|Film|Literaturverfilmung|Deutschland|1990>
+<Charlie und die Schokoladenfabrik|Film|Literaturverfilmung|Deutschland|2005>
+<Don Juan DeMarco|Film|N/A|N/A|1995>
+<Max|Film|N/A|N/A|1998>
+<Three Kings – Es ist schön König zu sein|Film|Kriegs|Irland|1999>
+<Nerf Herder|Film|N/A|Deutschland|1994>
+<Power Windows|N/A|N/A|Kanada|1985>
+<Tanguy – Der Nesthocker|Spielfilm|Komödie|Frankreich|2001>
+<The Follow|Kurzfilm|N/A|N/A|2001>
+<Todesspiel|Film|Doku/Drama|Deutschland|1997>
+<Der General|Spielfilm|N/A|Großbritannien|1998>
+<Ohne <GENRE>Krimi</GENRE> geht die Mimi nie ins Bett|N/A|Krimi/Komödie/Verwechslungskomödie|Deutschland|1962>
+<Cruising|N/A|Thriller|USA|1980>
+<Stroszek|Film|N/A|Deutschland|1976>
+<Darkman|Film|N/A|USA|1990>
+<König der Diebe|Film|N/A|Ukraine|2004>
+<Xaver und sein außerirdischer Freund|Film|Komödie/Heimat/Science-Fiction|Irland|1985>
+<Mein Leben in Rosarot|Spielfilm|N/A|N/A|1997>
+<Drei Chinesen mit dem Kontrabass|Film|Komödie|Deutschland|1999>
+<Der letzte Mohikaner|Verfilmung|Stumm|N/A|1920>
+<Der letzte Mohikaner|Verfilmung|Western|Deutschland|1964>
+<Lederstrumpf – Der letzte Mohikaner|Film|N/A|Frankreich|1965>
+<Uncas, der letzte Mohikaner|N/A|Literaturverfilmung|USA|1977>
+<Coast to Coast|Fernsehfilm|N/A|N/A|2003>
+<Timerider – Das <GENRE>Abenteuer</GENRE> des Lyle Swann|Film|Abenteuer/Science-Fiction|USA|1982>
+<Himmel über der Wüste|Film|Drama|N/A|1990>
+<Little Buddha|Film|N/A|N/A|1993>
+<Fotofinish|Kurzfilm|N/A|Deutschland|1986>
+<Remo – unbewaffnet und gefährlich|Film|Action|USA|1985>
+<Das Haus der Lady Alquist|Spielfilm|Thriller/Kriminal|USA|1944>
+<Seelen|Film|Bollywood/Romanze/Drama|Indien|2002>
+<Spiel der Götter – Als Buddha den Fußball entdeckte|Spielfilm|N/A|Tibet|1999>
+<Vater|Film|Sport|USA|1998>
+<Die Brücke von Remagen|Film|Kriegs|Deutschland|1969>
+<Ein Fisch namens Wanda|Film|Komödie|N/A|1988>
+<<GENRE>Agenten</GENRE> sterben einsam|Film|Agenten/Kriegs|Großbritannien|1968>
+<Denn meine Liebe ist unsterblich|Spielfilm|N/A|Indien|N/A>
+<Lady Snowblood|Film|Action|Japan|1973>
+<Nobody Knows|Spielfilm|N/A|Japan|2004>
+<Anna und der König|Film|N/A|USA|1999>
+<Die zwölf Geschworenen|Spielfilm|Gerichts|USA|1957>
+<Atanarjuat – Die Legende vom schnellen Läufer|Film|N/A|Kanada|N/A>
+<Der einzige Zeuge|Spielfilm|N/A|N/A|1985>
+<Out of Time – Sein Gegner ist die Zeit|N/A|Thriller|USA|2003>
+<Agonia|Spielfilm|N/A|Irland|1966>
+<The Phantom Planet|Film|Science-Fiction|Deutschland|N/A>
+<Lausbubengeschichten|Film|Heimat|N/A|1964>
+<Der dritte Mann|Film|Thriller|Großbritannien|1949>
+<Ronin|Film|Action|USA|1998>
+<Klitschko|Film|Dokumentar|N/A|2011>
+<Insert|Film|N/A|N/A|N/A>
+<Herrn Josefs letzte Liebe|Film|N/A|N/A|1959>
+<Road to Perdition|Film|Drama/Thriller|Deutschland|2002>
+<Der Pate|Spielfilm|N/A|USA|N/A>
+<Absolute Giganten|Spielfilm|N/A|Deutschland|1998>
+<Wilde Nächte|Spielfilm|Drama|Frankreich|1992>
+<Peter Pan|Verfilmung|Stumm|N/A|2003>
+<Madagascar|Film|Trick|N/A|N/A>
+<Zoom|Film|N/A|N/A|N/A>
+<Die Sonne, die uns täuscht|Film|N/A|Russland|1994>
+<Die Kanonen von Navarone|Film|Kriegs|USA|1961>
+<Verrückte Weihnachten|Kinofilm|N/A|USA|2004>
+<Stargate|Kinofilm|Science-Fiction|USA|1994>
+<Iris|Spielfilm|Drama/Biografie|Großbritannien|2001>
+<Alles auf Zucker!|Spielfilm|Komödie|N/A|2004>
+<Filmset|Film|N/A|N/A|N/A>
+<Is’ was, Doc?|Film|Screwball-Komödie|N/A|1938>
+<Forced Entertainment|Film|N/A|Großbritannien|1984>
+<Waqt|Film|Bollywood|England|2005>
+<Oktoberfest|Film|N/A|Deutschland|2005>
+<Down with Love – Zum Teufel mit der Liebe!|N/A|Liebeskomödie|N/A|2003>
+<Die 36 Kammern der Shaolin|Film|Martial-Arts|Deutschland|1978>
+<The Crying Game|Spielfilm|Thriller|Irland|1992>
+<Die Hochzeit meines besten Freundes|Kinofilm|N/A|USA|1997>
+<Don’t Come Knocking|Spielfilm|Western|N/A|2005>
+<Last Man Standing|Film|Thriller/Action/Western|USA|1996>
+<Tote schlafen fest|Film|Kriminal/ noir|USA|1946>
+<Blueprint|Film|Drama|Deutschland|2003>
+<Botschafter der Angst|Film|Politthriller/Kriegs|USA|1962>
+<Der Smaragdwald|Spielfilm|N/A|N/A|1985>
+<British Board of Film Classification|Film|N/A|Großbritannien|N/A>
+<Striptease|Film|N/A|USA|1996>
+<Männerwirtschaft|Spielfilm|N/A|USA|1970>
+<Little Big Man|Film|Anti-Western|USA|1970>
+<Die Nacht des Jägers|Film|Drama|USA|1955>
+<Pappa ante Portas|Film|Komödie|Deutschland|1991>
+<Der Puppenspieler|Film|N/A|N/A|1980>
+<Brokeback Mountain|Film|Drama/Liebes|N/A|2005>
+<Pleasantville – Zu schön, um wahr zu sein|Film|N/A|N/A|1998>
+<Siegfried|Film|N/A|Deutschland|2005>
+<Hulchul – Eine verrückte Lovestory|Film|N/A|Indien|2004>
+<Deewaar|Film|Bollywood|Indien|1971>
+<Der Mann, der vom Himmel fiel|Film|Science-Fiction|Großbritannien|1976>
+<Birth|Spielfilm|Mystery/Drama|Großbritannien|2004>
+<Walkabout|Kinofilm|N/A|Australien|1971>
+<Knockin’ on Heaven’s Door|Film|Roadmovie|Deutschland|1997>
+<Halloween II – Das Grauen kehrt zurück|Film|Horror|England|1981>
+<Wer küsst schon einen Leguan?|Film|Drama|Deutschland|2003>
+<Halloween IV – Michael Myers kehrt zurück|Film|B-Movie/Horror|N/A|1988>
+<Halloween|Film|Horror|N/A|1978>
+<America’s Sweethearts|Film|Komödie|USA|2001>
+<Zwischen Himmel und Hölle|Film|Kriminal/Krimi|N/A|1963>
+<Gamera gegen Gaos – Frankensteins Kampf der Ungeheuer|Spielfilm|Monster|Japan|1967>
+<Behind the Green Door|Film|Porno|Deutschland|1972>
+<Der Patriot|Film|Kriegs|N/A|2000>
+<Im Fadenkreuz – Allein gegen alle|Film|Action/Thriller|N/A|2001>
+<24 Stunden Angst|Film|Thriller|Deutschland|2002>
+<Freddy’s New Nightmare|Film|Horror|N/A|1994>
+<Freddy vs. Jason|Film|Horror|N/A|2003>
+<Haus aus Sand und Nebel|Spielfilm|Drama|Ukraine|2003>
+<Fahrraddiebe|Film|N/A|N/A|1948>
+<Buffy – Der Vampir-Killer|Spielfilm|Horrorkomödie|USA|1992>
+<Hochzeit – Nein danke!|Film|Bollywood|Indien|2005>
+<Don’s Plum|Spielfilm|N/A|USA|1995>
+<The Deep End – Trügerische Stille|Spielfilm|Thriller/Independent|USA|2001>
+<Karniggels|Film|Komödie|N/A|1991>
+<Nightmare – Mörderische Träume|Film|Horror/Slasher|N/A|1984>
+<Nightmare II – Die Rache|Film|Horror|N/A|1985>
+<Nightmare III – Freddy Krueger lebt|Film|Horror|N/A|1987>
+<Nightmare on Elm Street 4|Film|Horror/Komödie|N/A|1988>
+<Nightmare on Elm Street 5 – Das Trauma|Film|Horror|N/A|1989>
+<Freddy’s Finale – Nightmare on Elm Street 6|Film|Horror|N/A|1991>
+<Alien vs. Predator|Film|Science-Fiction|USA|2004>
+<Alien – Die Wiedergeburt|Film|N/A|USA|1997>
+<Alien 3|Film|Science-Fiction|USA|1992>
+<Olympus OM-2|Film|N/A|N/A|1979>
+<Maine Pyaar Kyun Kiya|Film|Bollywood|Indien|2005>
+<Lieben Sie Brahms?|Film|N/A|Frankreich|1961>
+<Oscar|Film|N/A|Indien|2001>
+<Gosford Park|Spielfilm|N/A|USA|2001>
+<Bloodsport|Film|Martial-Arts|N/A|1988>
+<Running Man|Spielfilm|N/A|USA|1987>
+<James Bond|Fernsehfilm|Agenten|N/A|1953>
+<Rachel Talalay|Film|Horror|N/A|1981>
+<Quadrophenia|Spielfilm|N/A|Großbritannien|1979>
+<Zwielicht|N/A|Thriller|N/A|1996>
+<Große Haie – Kleine Fische|Film|Computeranimations|N/A|2004>
+<Windjammer|Film|Dokumentar|N/A|1958>
+<The Woodsman|Film|N/A|Deutschland|2004>
+<Die Faust im Nacken|Film|Drama|USA|1954>
+<UNIVAC 1108|Film|N/A|N/A|1964>
+<Argonaut Games|Film|N/A|Großbritannien|1982>
+<Tarantula|Film|Science-Fiction/Horror/Thriller|USA|1955>
+<Freitag der 13. – Jason kehrt zurück|Film|Horror|USA|1981>
+<Jason X|Film|Horror/Science-Fiction|USA|2001>
+<Speed|Film|Action|N/A|1994>
+<Yuva|Film|Hindi|N/A|2004>
+<Und wieder ist Freitag der 13.|Film|Horror|USA|1982>
+<Kroko|Spielfilm|N/A|Deutschland|2003>
+<Spın̈al Tap|Spielfilm|N/A|Großbritannien|N/A>
+<Taxi Taxi|Film|Actionkomödie|N/A|2000>
+<Freitag der 13. – Das letzte Kapitel|Film|Horror|USA|1984>
+<Sholay|Spielfilm|Western/Hindi|Indien|1975>
+<Freitag der 13. – Ein neuer Anfang|Film|Horror|USA|1985>
+<Freitag der 13. Teil VI – Jason lebt|Film|Horror|USA|1986>
+<Meeresfrüchte|Film|Komödie|Frankreich|2005>
+<Eve und der letzte Gentleman|Film|Komödie|USA|1997>
+<Fédération Internationale des Archives du <FILMTYPE>Film</FILMTYPE>|Film|Doku|N/A|1938>
+<Freitag der 13. Teil VII – Jason im Blutrausch|Film|Horror|USA|1988>
+<La mala educación – Schlechte Erziehung|Film|N/A|N/A|2004>
+<Freitag der 13. Teil VIII – Todesfalle Manhattan|Film|Horror|USA|1989>
+<Die Legende von Bagger Vance|Spielfilm|Drama|USA|2000>
+<41 Grad Liebe|Film|Parodie|N/A|N/A>
+<Jason Goes to Hell – Die Endabrechnung|Film|Horror|USA|1993>
+<Ist ja irre – Cäsar liebt Cleopatra|Film|Parodie/Sandalen/Monumental|N/A|N/A>
+<Ist ja irre – der dreiste Cowboy|Film|Historien/Western/Parodie|N/A|N/A>
+<Der Club der Teufelinnen|Film|N/A|N/A|1996>
+<Verrückt nach Mary|Film|Komödie|USA|1998>
+<Pakt der Wölfe|Film|N/A|Frankreich|2001>
+<Vergiss mein nicht!|Spielfilm|Drama|N/A|2004>
+<Der Untergang des Römischen Reiches|Film|Monumental|USA|1964>
+<Ist ja irre – <GENRE>Agenten</GENRE> auf dem Pulverfaß|Film|Agenten/Parodie/Spionage|N/A|N/A>
+<The Score|Spielfilm|Heist-Movie|Frankreich|2001>
+<Meine Braut, ihr Vater und ich|Film|Komödie|Deutschland|2005>
+<Ist ja irre – ’ne abgetakelte Fregatte|Film|Parodie|Großbritannien|N/A>
+<Das total verrückte Campingparadies|Film|N/A|N/A|N/A>
+<Ferris macht blau|Spielfilm|Komödie|N/A|1986>
+<Die Grauzone|Film|Drama|N/A|2001>
+<Schule|Film|Parodie|USA|2001>
+<Nightwatch – Nachtwache|Film|Thriller|Dänemark|1994>
+<Schlaraffenland|Film|N/A|Deutschland|1999>
+<Ist ja irre – Alarm im Gruselschloß|Film|Monster|N/A|N/A>
+<Casino Royale|Fernsehfilm|N/A|Frankreich|1954>
+<Casino Royale|Spielfilm|Parodie|N/A|1967>
+<Schütze dieses Haus|Film|N/A|N/A|N/A>
+<Ein ganz verrückter Freitag|Film|Fantasy|USA|1976>
+<Robin Hood – Helden in Strumpfhosen|Film|N/A|USA|1993>
+<Wild Things|Film|Erotik/Thriller|N/A|1998>
+<Schneewittchen und die sieben Zwerge|Film|Zeichentrick/Märchen|N/A|1937>
+<Piano Bar|Film|N/A|Frankreich|2002>
+<Joint Security Area|N/A|Thriller|Südkorea|2000>
+<Das geheime Fenster|Film|Thriller|N/A|2004>
+<Fleisch|Film|Thriller|N/A|1979>
+<Batman & Robin|Verfilmung|Comic|USA|1997>
+<Palindrome|Spielfilm|N/A|USA|2004>
+<Peggy Sue hat geheiratet|Spielfilm|Komödie|USA|1986>
+<Storytelling|Film|Dokumentation|USA|2001>
+<Achteinhalb|Kinofilm|N/A|Italien|1963>
+<Solarfighters|Film|Science-Fiction|USA|1986>
+<Die Insel|Kinofilm|N/A|USA|2005>
+<Quintett|Film|Science-Fiction|USA|N/A>
+<Engel & Joe|Spielfilm|N/A|Deutschland|2001>
+<Dämon – Trau keiner Seele|N/A|Thriller|N/A|1998>
+<Beautiful Thing|Spielfilm|N/A|England|N/A>
+<Fellinis Roma|Film|N/A|N/A|1972>
+<Hundstage|Spielfilm|N/A|USA|1975>
+<Die Stunde des Verführers|Kinofilm|N/A|N/A|N/A>
+<Das Relikt|Film|Horror|USA|1997>
+<Women Love Women|Fernsehfilm|N/A|USA|2000>
+<Dracula – Tot aber glücklich|Film|Komödie|USA|1995>
+<Ritter aus Leidenschaft|Film|Komödie|USA|2001>
+<Harley Davidson & The Marlboro Man|Film|Actionkomödie|N/A|1991>
+<Einer kam durch|Spielfilm|Kriegs/Heimat|Deutschland|1956>
+<Die letzte Offensive|Film|Kriegs|Großbritannien|1979>
+<Teenage Robot|Fernsehfilm|N/A|USA|2003>
+<Save the Last Dance|Film|Liebes|USA|2001>
+<Was geschah wirklich mit Baby Jane?|Spielfilm|N/A|N/A|1962>
+<Bengali|Film|N/A|Deutschland|1935>
+<Hurricane|Film|N/A|N/A|1999>
+<Unbreakable – Unzerbrechlich|Spielfilm|Melodram/Thriller|USA|2000>
+<Die Körperfresser kommen|Film|Science-Fiction|USA|1978>
+<Femme Fatale|Film|Erotikthriller/ noir|N/A|2002>
+<Das Geheimnis des steinernen <GENRE>Monster</GENRE>s|Film|Monster/Science-Fiction|USA|1957>
+<Sky Captain and the World of Tomorrow|Spielfilm|N/A|N/A|2004>
+<Tränen der Sonne|Film|Kriegs|Nigeria|2003>
+<Brubaker|Film|Krimi|N/A|1980>
+<Stirb langsam 2|Film|Action|USA|1990>
+<Das Dorf der Verdammten|Film|Horror|N/A|1995>
+<Steiner – Das Eiserne Kreuz|Film|Kriegs|Deutschland|1943>
+<Phase IV|Film|Science-Fiction|USA|1974>
+<Bitter Moon|Spielfilm|N/A|Großbritannien|1992>
+<Zärtliche Cousinen|Film|N/A|Großbritannien|1939>
+<Alfie|Film|N/A|USA|2004>
+<Die Bibel|Verfilmung|Monumental|USA|1949>
+<Tattoo|N/A|Thriller/Kriminal|Deutschland|2002>
+<Tom Skerritt|Fernsehfilm|Kriegs|USA|1933>
+<Die Dämonischen|Film|Science-Fiction|USA|1956>
+<The Nameless|Spielfilm|Horror|Spanien|1999>
+<The Contact|Film|N/A|Südkorea|1997>
+<10 Dinge, die ich an Dir hasse|Film|Komödie|USA|1999>
+<Peppermint Candy|Spielfilm|N/A|N/A|2000>
+<Men Behind the Sun|Film|N/A|Japan|1988>
+<AufklärungsFilm|Film|Kriegs|Deutschland|1917>
+<Corpse Bride – Hochzeit mit einer Leiche|Film|N/A|USA|2005>
+<Das Wunderkind Tate|Film|N/A|USA|1991>
+<Weltverbesserungsmaßnahmen|Film|N/A|Deutschland|2005>
+<Familienfest und andere Schwierigkeiten|Film|N/A|USA|1995>
+<Die 1000 Augen des Dr. Mabuse|Film|Kriminal|N/A|1960>
+<Mord nach Plan|N/A|Thriller|N/A|2002>
+<Im Stahlnetz des Dr. Mabuse|Film|Kriminal|N/A|1961>
+<Das Testament des Dr. Mabuse|Film|Kriminal|Deutschland|1962>
+<Das Leben des David Gale|Film|N/A|USA|2002>
+<Scotland Yard jagt Dr. Mabuse|Film|Kriminal|Deutschland|1963>
+<Die Todesstrahlen des Dr. Mabuse|Film|Kriminal|N/A|1964>
+<Outland – Planet der Verdammten|Film|Science-Fiction|Großbritannien|1981>
+<Der Tag, an dem die Erde stillstand|Film|Science-Fiction|N/A|1951>
+<Sommersby|Spielfilm|Kriminal|USA|1993>
+<Christine|Film|Horror|N/A|1983>
+<Riff-Piraten|Spielfilm|N/A|Großbritannien|1939>
+<Zille und ick|N/A|Musical|N/A|1983>
+<Land of Plenty|Film|N/A|N/A|2004>
+<Der Manchurian Kandidat|Neuverfilmung|Politthriller|Deutschland|2004>
+<Enigma|Film|N/A|Israel|1983>
+<Enigma – Das Geheimnis|Film|N/A|Großbritannien|2001>
+<8mm – Acht Millimeter|Film|Thriller/Snuff|USA|1999>
+<Beat Street|Film|N/A|USA|1984>
+<Natürlich die Autofahrer|Film|N/A|Deutschland|1959>
+<Der Feind in meinem Bett|Spielfilm|N/A|USA|1991>
+<Center Stage|Film|Tanz|USA|2000>
+<Mona Lisas Lächeln|Film|N/A|USA|2003>
+<Geständnisse – Confessions of a Dangerous Mind|Film|N/A|USA|2002>
+<Seite an Seite|Spielfilm|N/A|USA|1998>
+<Eine Dame verschwindet|N/A|Kriminalkomödie|Großbritannien|1938>
+<Die Braut, die sich nicht traut|Film|Komödie|USA|1999>
+<Vertical Limit|Spielfilm|N/A|USA|2000>
+<Der Mann mit der Todeskralle|Film|Martial-Arts|N/A|1973>
+<Maryam d’Abo|Film|Biografie|Großbritannien|1960>
+<Paris, Texas|Spielfilm|Drama/Roadmovie|Deutschland|1984>
+<De Grotzepuur|Film|N/A|N/A|1975>
+<Flightplan – Ohne jede Spur|Film|Thriller|Deutschland|2005>
+<Das fliegende Auge|Film|Action|USA|1983>
+<Josh – Mein Herz gehört dir|Film|Bollywood/Musical|N/A|2000>
+<Highlander III – Die Legende|Film|Heimat|N/A|1994>
+<Verliebt in eine Hexe|Spielfilm|N/A|USA|2005>
+<Rambo II – Der Auftrag|Film|Action|USA|1985>
+<I Love Trouble – Nichts als Ärger|Film|Komödie|USA|1994>
+<The Mexican|Spielfilm|N/A|USA|2001>
+<Smog|Film|Doku|Deutschland|1973>
+<Entscheidung aus Liebe|Spielfilm|N/A|USA|1991>
+<Aber, Herr Doktor…|Film|N/A|N/A|N/A>
+<Instinkt|Film|Thriller/Monster|N/A|1999>
+<Wolfen|Film|Horror|USA|1981>
+<Bean – Der ultimative <GENRE>Katastrophen</GENRE><FILMTYPE>Film</FILMTYPE>|Film|Katastrophen/Komödie|N/A|1997>
+<Das Mercury Puzzle|Film|Thriller|USA|1998>
+<Hunde, wollt ihr ewig leben|Film|N/A|N/A|1959>
+<Nasser Asphalt|Spielfilm|Kriegs|Deutschland|1958>
+<Fabrik der Offiziere|Spielfilm|N/A|Deutschland|1960>
+<The Last Song|Kinofilm|N/A|N/A|1988>
+<Im Lauf der Zeit|Film|Roadmovie|N/A|1976>
+<Haie und kleine Fische|Film|Antikriegs|N/A|1957>
+<In die <NAT>Japan</NAT> Sonne|Film|Kriegs|Japan|1943>
+<Der jüngste Tag|Film|Science-Fiction/Trick|USA|1951>
+<Jamon Jamon|Film|N/A|Spanien|1992>
+<Tricks|Spielfilm|N/A|England|2002>
+<Raven – Die Unsterbliche|Kinofilm|Fantasy|Kanada|1998>
+<Safecrackers oder Diebe haben’s schwer|Film|N/A|N/A|2002>
+<Highlander II – Die Rückkehr|Film|N/A|USA|1990>
+<Alarm im Weltall|Film|Science-Fiction|USA|1956>
+<Lawn Dogs – Heimliche Freunde|Film|N/A|Großbritannien|1997>
+<Sieben Jahre in Tibet|Spielfilm|N/A|N/A|N/A>
+<Die Schattenmacher|Film|Drama|USA|1989>
+<Das Ultimatum|Spielfilm|Doku|Deutschland|1977>
+<Flashback – Mörderische Ferien|Film|Horror|Deutschland|2000>
+<Die Gentlemen bitten zur Kasse|Film|N/A|Deutschland|1965>
+<Creep|Film|Horror|N/A|2004>
+<Bitterer Reis|Film|N/A|Italien|1949>
+<Match Point|Film|Melodram/Thriller|N/A|2005>
+<Der verbotene Schlüssel|Film|Horror|N/A|2005>
+<Yamakasi – Die Samurai der Moderne|Spielfilm|N/A|Frankreich|2001>
+<Todesstille|Spielfilm|Thriller|Australien|1989>
+<Formicula|Film|SciFi/Horror|USA|1954>
+<Inside Deep Throat|Film|Dokumentar/Porno/Gore|N/A|2005>
+<Schwarzer Regen|Film|N/A|Japan|1989>
+<Bridget Jones – Schokolade zum Frühstück|Verfilmung|Komödie|N/A|2001>
+<Die Prophezeiung|Film|Horror/Thriller|N/A|2000>
+<Unheimliche Schattenlichter|Episodenfilm|Fantasy/Horror|N/A|1983>
+<Sneakers – Die Lautlosen|Film|Heist-Movie|N/A|1992>
+<Tage des Donners|Spielfilm|N/A|USA|1990>
+<Die Frauen von Stepford|Film|Komödie|USA|2004>
+<Halt! Hier Grenze|Film|Dokumentar|Deutschland|2005>
+<Die Vergessenen|Film|Thriller|USA|2004>
+<Videodrome|Film|Science-Fiction/Thriller|Kanada|1983>
+<Muxmäuschenstill|Film|N/A|N/A|2004>
+<Coma|Film|Thriller|N/A|1978>
+<Doktor Ahoi!|Film|Komödie|Großbritannien|1955>
+<Arena|Film|N/A|N/A|1992>
+<UFOria|Film|Science-Fiction/Komödie|N/A|1980>
+<Pizza Pizza – Ein Stück vom Himmel|Spielfilm|N/A|USA|1988>
+<Stop Making Sense|Film|N/A|N/A|1983>
+<Bring mir den Kopf von Alfredo Garcia|Spielfilm|N/A|USA|1974>
+<Spiral – The Ring II|Film|N/A|N/A|1995>
+<Internationale Hochschule für Film und Fernsehen|Film|N/A|N/A|1985>
+<Fliegende Untertassen greifen an|Film|Science-Fiction|USA|1956>
+<Don|Spielfilm|N/A|USA|1997>
+<Ein Mann – ein Mord|Film|Komödie|USA|1997>
+<Short Cuts|Film|N/A|USA|1993>
+<Das Kabinett des Professor Bondi|Film|Horror|N/A|1953>
+<National Film and Television School|Film|Animations|N/A|1971>
+<Ring – Das Original|Neuverfilmung|Literaturverfilmung|USA|1998>
+<Wambo|Fernsehfilm|N/A|Deutschland|2001>
+<Verhängnis|Spielfilm|N/A|Frankreich|1992>
+<Hard Rain|Film|Action|USA|1998>
+<Power of Love|Spielfilm|N/A|USA|1995>
+<Metaluna IV antwortet nicht|Film|Science-Fiction|USA|1956>
+<Walking Tall – Auf eigene Faust|Verfilmung|Heimat|N/A|2004>
+<Der Märchenprinz|Film|Liebes/Literaturverfilmung|N/A|1994>
+<Europa|Film|Stumm|Frankreich|N/A>
+<Alice in den Städten|Film|Roadmovie|N/A|1974>
+<Der Drache wider Willen|Film|Trick|N/A|1941>
+<Sympathy for Mr. Vengeance|Spielfilm|N/A|Südkorea|2002>
+<Good Morning, Vietnam|Spielfilm|Biographie|USA|1987>
+<Harry Lime|Film|N/A|Großbritannien|1949>
+<Das Ding aus einer anderen Welt|Film|Science-Fiction|USA|1951>
+<Dark Water|Film|Horror|N/A|N/A>
+<Mach’s noch einmal, Sam|Spielfilm|N/A|USA|1972>
+<Allotria|Spielfilm|Liebeskomödie|Deutschland|1936>
+<Die letzten Amerikaner|Film|Thriller|Deutschland|1981>
+<Hexenjagd in L.A.|Film|Horrorkomödie|USA|1948>
+<Zabriskie Point|Film|N/A|Italien|1970>
+<Der <NAT>England</NAT> Patient|Spielfilm|Liebes|England|1996>
+<Die grünen Teufel|Film|Kriegs|USA|1968>
+<The Boys from Brazil|N/A|Thriller|N/A|1978>
+<Moon|Film|Science-Fiction|USA|1950>
+<Operation Ganymed|Film|Science-Fiction|Deutschland|1977>
+<F.P.1 antwortet nicht|Film|Science-Fiction|N/A|1932>
+<Stranger than Paradise|Film|N/A|N/A|1984>
+<Die Liste|Film|Dokumentar|Deutschland|N/A>
+<Sliver|Spielfilm|N/A|USA|1993>
+<Panik in New York|Film|Monster|USA|1953>
+<Tag der Entscheidung|Film|N/A|N/A|1978>
+<Katies Sehnsucht|Spielfilm|N/A|USA|1988>
+<Die WonderBoys|Spielfilm|Tragikomödie|USA|2000>
+<Der Ritt zurück|Film|Western|N/A|1957>
+<Hebt die Titanic|Spielfilm|Thriller|USA|1980>
+<In den Schuhen des Fischers|Film|Drama|Deutschland|1968>
+<Brother|Film|N/A|Großbritannien|1975>
+<Der Schattenkrieg|Film|Politthriller|England|1989>
+<Beste Freunde küsst man nicht!|Film|Hindi/Bollywood|N/A|2002>
+<Catchfire|Spielfilm|N/A|USA|1990>
+<Krankenhäuser brennen nicht|Film|N/A|England|1977>
+<Liebelei|Film|N/A|Deutschland|2002>
+<Der Richter bin ich|Film|Kriminal|N/A|1953>
+<Ganz unten, ganz oben|Film|N/A|Deutschland|1999>
+<Solino|Film|N/A|Italien|2002>
+<Der Wüstenplanet|Film|Science-Fiction|USA|1984>
+<Frauen sind doch bessere Diplomaten|Film|Musik|Deutschland|1941>
+<Dr. M schlägt zu|Spielfilm|N/A|Deutschland|1970>
+<Karriere durch alle Betten|Film|N/A|N/A|1983>
+<Der Mann mit den Röntgenaugen|Film|Science-Fiction|USA|1963>
+<Rakete Mond startet|Film|Science-Fiction|USA|1950>
+<Batmans Rückkehr|Verfilmung|N/A|N/A|1992>
+<Geri’s Game|Kurzfilm|N/A|N/A|1997>
+<9½ Wochen|Film|Liebes|N/A|1986>
+<Allein unter Frauen|Film|Komödie|Deutschland|1991>
+<Hansen Band|Film|Independent|N/A|N/A>
+<Die grüne Wolke|Film|Fantasy|Deutschland|2001>
+<Das Schloss im Spinnwebwald|Film|N/A|Japan|1957>
+<Mein Name ist Eugen|Film|N/A|N/A|2005>
+<Karakter|Film|Drama|Niederlande|1997>
+<Das Philadelphia Experiment|Film|Science-Fiction/Kriegs|N/A|1984>
+<Philadelphia Experiment II|Film|N/A|N/A|1993>
+<Auch die Kleinen wollen nach oben|Spielfilm|N/A|Großbritannien|1963>
+<Die Höhle des gelben Hundes|Spielfilm|N/A|Mongolei|2005>
+<Interceptor|Spielfilm|N/A|USA|1986>
+<Amy und die Wildgänse|Spielfilm|N/A|Kanada|1995>
+<Von Küste zu Küste|Film|Komödie|USA|1980>
+<Rollerball|Film|Science-Fiction|USA|1975>
+<Stummer Schrei|N/A|Thriller|N/A|1994>
+<Gamera – Guardian of the Universe|Film|Monster/Fantasy|Japan|1995>
+<Die Invasion der Barbaren|Spielfilm|Tragikomödie|Kanada|2003>
+<Die Liebe der Charlotte Gray|Film|Kriegs|N/A|2001>
+<Es|Film|N/A|N/A|2001>
+<The Fast and the Furious|Film|Action|N/A|2001>
+<Im Juli|Film|Roadmovie|N/A|2000>
+<Die Häupter meiner Lieben|Film|Komödie|N/A|1999>
+<Das dreckige Dutzend|Film|Kriegs|USA|1967>
+<Brothers Grimm|Film|Fantasy|N/A|2005>
+<U-571|Film|N/A|USA|2000>
+<Sacramento|N/A|Western|N/A|1962>
+<Joe Jedermann|Spielfilm|N/A|USA|2001>
+<Die Kaktusblüte|Film|Komödie|N/A|1969>
+<Broken Flowers|Film|Tragikomödie|N/A|2005>
+<Loaded Weapon 1|Film|Parodie|N/A|1993>
+<Flucht ins 23. Jahrhundert|Film|Science-Fiction|USA|1976>
+<Lichtgestaltung|Film|N/A|N/A|N/A>
+<Igby|Film|N/A|USA|2002>
+<The Other Final|Film|Dokumentar|Niederlande|2003>
+<Style Wars|Film|Dokumentar|N/A|1980er>
+<Der Prinz von Ägypten|Film|Zeichentrick|N/A|1998>
+<Gelbe Erde|Film|N/A|China|1984>
+<Die sieben Schwerter|Film|Wuxia|China|N/A>
+<Crazies|Film|Horror|USA|1979>
+<Tesna koža|Film|N/A|Kroatien|1982>
+<Hide and Seek|Film|Thriller|Deutschland|2005>
+<Lohn der Angst|Spielfilm|N/A|Frankreich|1953>
+<Studienkreis Film|Film|N/A|N/A|1966>
+<The Atomic Café|Film|Dokumentar/Propaganda|N/A|1982>
+<A Dirty Shame|Film|N/A|USA|2004>
+<Begierde|Film|Horror|Großbritannien|1983>
+<Der Schneider von Panama|Spielfilm|N/A|Irland|2001>
+<Ich, Dr. Fu Man Chu|Film|N/A|Großbritannien|1965>
+<Terra Film|Film|N/A|Deutschland|1930er>
+<Junimond|Film|Drama|Deutschland|2002>
+<Der Tunnel|Film|Science-Fiction/Schwarz-Weiß|Frankreich|1933>
+<Die Lokomotivenbraut|Spielfilm|Kriminal|Deutschland|1936>
+<Nur noch 60 Sekunden|Film|Action|N/A|2000>
+<Menace II Society|Kinofilm|N/A|England|1993>
+<Red Eye|Film|N/A|Deutschland|2005>
+<Greg Marcks|Film|Thriller|USA|1976>
+<Heist – Der letzte Coup|Spielfilm|N/A|N/A|2001>
+<Katzenmenschen|Spielfilm|Horror|USA|1942>
+<<GENRE>Zombie</GENRE> 2|Film|Zombie/Splatter|USA|1985>
+<Velvet Goldmine|Film|N/A|Großbritannien|1998>
+<Ungeküsst|Spielfilm|N/A|USA|1999>
+<Die letzten Sieben|Film|Science-Fiction|N/A|1955>
+<Mad Max II – Der Vollstrecker|Film|Action|Australien|1981>
+<Mad Max – Jenseits der Donnerkuppel|Film|Action|Australien|1985>
+<Yentl|Film|N/A|USA|1983>
+<2012|Film|N/A|Deutschland|2005>
+<Voll normaaal|Film|Komödie|Deutschland|1994>
+<Die Russen kommen! Die Russen kommen!|Film|N/A|Irland|1966>
+<N/A|Film|N/A|China|N/A>
+<Jabberwocky|Spielfilm|N/A|N/A|1977>
+<In & Out|Spielfilm|N/A|USA|1997>
+<Das Kartell|Spielfilm|Thriller|USA|1994>
+<Kids|Spielfilm|N/A|USA|1995>
+<Man nennt mich Hondo|Film|Western|N/A|1953>
+<Geklont – Babys um jeden Preis|Film|N/A|N/A|1997>
+<Die unglaubliche Geschichte des Mister C.|Film|Science-Fiction|USA|1957>
+<Dark Blue World|Film|Kriegs|Deutschland|2001>
+<Rendezvous mit Joe Black|Spielfilm|N/A|USA|1998>
+<Stoppt die Todesfahrt der U-Bahn 123|Film|Kriminal/Thriller|N/A|1974>
+<Time Warp|Film|Horror|Großbritannien|1980er>
+<Sunshine Reggae auf Ibiza|Spielfilm|Verwechslungskomödie/Liebes|Deutschland|1983>
+<Der Held der westlichen Welt|N/A|Western|England|1907>
+<Wonderwall|Film|N/A|N/A|1968>
+<Die phantastische Reise|Film|Science-Fiction|USA|1966>
+<Planet der Vampire|Film|Science-Fiction/Horror|Italien|1965>
+<Bob Roberts|Film|Dokumentation|Irland|1992>
+<Blow Up|Spielfilm|N/A|Großbritannien|1966>
+<Roundhay Garden Scene|Kurzfilm|N/A|N/A|1888>
+<The Birdcage – Ein Paradies für schrille Vögel|N/A|Komödie|USA|1996>
+<München|Spielfilm|N/A|USA|2005>
+<Der Bär|Spielfilm|Abenteuer/Western/Drama|Frankreich|1988>
+<Roxanne|Film|Komödie|N/A|1987>
+<Mann unter Feuer|Film|Drama/Thriller|USA|2004>
+<Der nackte Mann auf dem Sportplatz|Film|Tragikomödie|N/A|1974>
+<Virus – Schiff ohne Wiederkehr|Film|Science-Fiction/Action/Horror|USA|1999>
+<Das Reich der Sonne|Spielfilm|Drama|USA|1987>
+<Eureka|Spielfilm|N/A|Japan|2000>
+<Status Yo!|Film|N/A|N/A|2004>
+<Silent Night|Fernsehfilm|N/A|Kanada|2002>
+<Music of the Heart|Spielfilm|Dokumentar|N/A|1996>
+<Unruhestifter|Film|N/A|Frankreich|2004>
+<Dear Wendy|Spielfilm|Drama|Dänemark|2005>
+<Das China-Syndrom|Film|Katastrophen|USA|1979>
+<Der Fluch|Neuverfilmung|Horror/Thriller|Deutschland|2004>
+<Freejack – Geisel der Zukunft|Film|Science-Fiction/Literaturverfilmung|N/A|1992>
+<Die Abrafaxe – Unter schwarzer Flagge|Film|Trick|Deutschland|N/A>
+<Im Schatten des Mörders|Film|Kriminal|Spanien|N/A>
+<Sie leben|Spielfilm|N/A|USA|1988>
+<Starman|Film|Science-Fiction|USA|1984>
+<Das Imperium der Wölfe|Verfilmung|Thriller|N/A|2005>
+<Bibi Blocksberg und das Geheimnis der blauen Eulen|Spielfilm|N/A|Deutschland|2004>
+<Pinguine in der Bronx|Spielfilm|Independent|N/A|1987>
+<Jumanji|Film|Fantasy/Abenteuer|N/A|1995>
+<Frauenarzt Dr. Prätorius|Verfilmung|N/A|N/A|1950>
+<Telecine|Film|N/A|N/A|N/A>
+<Super süß und super sexy|Spielfilm|N/A|USA|2002>
+<Immer Ärger mit Bernie|N/A|Komödie|USA|1989>
+<Powers Boothe|Film|N/A|USA|1948>
+<Dr. med. Hiob Prätorius|Verfilmung|Komödie|N/A|1950>
+<Telecine|Film|N/A|N/A|N/A>
+<Am Ende der Gewalt|Spielfilm|Action|Deutschland|1997>
+<Outsider|Spielfilm|Drama|Slowenien|1997>
+<Sabine Eichinger|Film|N/A|Deutschland|1991>
+<Das Urteil – Jeder ist käuflich|Film|Thriller|USA|2003>
+<Der Rächer aus dem Sarg|Film|N/A|Frankreich|1968>
+<Satisfaction|Spielfilm|N/A|USA|1988>
+<The Virgin Suicides|Film|N/A|Deutschland|1999>
+<Das siebente Siegel|Film|Drama|Schweden|1957>
+<Verrückt/Schön|Film|Liebes|USA|2001>
+<Michael|Film|Horror/Kriminal|N/A|1932>
+<Sexmission|Film|Science-Fiction/Komödie|Polen|1983>
+<The Last Starfighter|Film|Science-Fiction/Musical|N/A|1984>
+<Mickey Blue Eyes|Spielfilm|N/A|USA|1999>
+<Der Volltreffer|Spielfilm|Komödie/Roadmovie|USA|1985>
+<Tödliche Strahlen|Film|Horror|USA|1936>
+<Das Rußland-Haus|Spielfilm|N/A|USA|1990>

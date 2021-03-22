@@ -1,0 +1,74 @@
+#Matcht diverse Festivals
+^\S*[fF]estival.+
+#Matcht den Filmrepreis
+^Oscar.*
+#Matchen den Filmpreis
+^Goya.*
+#Matcht reine Jahreszahlen [all]
+^\d{4}er
+#Macht diverse Filmakademien [all]
+.*[Aa]kademie.*
+#Matcht diverse Filmpreise (aber auch Filmtitel)
+.*[Pp]reis.*
+#Matchen den Filmpreis
+.*César.*
+#Matcht diverse Musikpreise
+.*[Mm]usik.*
+#British Academy Film Award [all]
+.*British Academy Film Award.*
+#Golden Globe
+.*Golden Globe.*
+#Screen Actors Guild Awards
+.*Screen Actors Guild Awards.*
+#Matcht extrem viele Preise
+.*[Aa]ward.*
+#Guldbagge Preis
+.*Guldbagge.*
+#
+.*[Bb]est[er].*
+#Sundance Film Festival
+.*Sundance Film Festival.*
+#Internationale Filmfestspiele von Cannes
+.*Internationale Filmfestspiele von Cannes.*
+#Macht 2 falsche
+.*Drehbuch.*
+#Matcht fernsehsender
+.*[cC]anal+.*
+#Matcht Spiele
+.*(Computerspiel).*
+#Matcht Romane
+.*\(Roman\).*
+#Matcht Alben
+.*\(Album\).*
+#Matcht Fimfestspiele (Berlin)
+.*Filmfestspiele.*
+#Macht viele Film Festivals
+.*Film Festival.*
+#.Filmwissenschaft
+.*[Ww]issenschaft.*
+#Matcht Filmfestivals und einen Film ganz am Ende
+.*[Ff]estival.*
+#Matcht Studios [all]
+.*\(Studio\).*
+#Matcht Soundtracks
+.*\(Soundtrack\).*
+#Matcht Mangas [all]
+.*\(Manga\).*
+#Matcht Fernsehserien
+.*\(Fernsehserie\).*
+#Matcht Verbände[all]
+.*[Vv]erband.*
+#Matcht Insitute [all]
+.*[Ii]nstitut.*
+#Matcht viele Studios (und mind. einen Film)
+.*[Ss]tudio.*
+#Matcht diverse Kinos aber auch Filme
+.*[Kk]ino.*
+#Matcht Dolby Sachen
+.*Dolby.*
+#Matcht Schauspieler und Schauspiele
+.*\(Schauspiel.*\).*
+#Lieder mit (Lied) markiert
+.*\(Lied\).*
+#Musicals mit (Musical) markiert
+.*\(Musical\).*

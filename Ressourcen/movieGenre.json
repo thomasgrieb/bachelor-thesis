@@ -1,0 +1,369 @@
+{
+  "Abenteuerfilm": {
+    "Subgenres": [
+      "Sandalenfilm",
+      "Ritterfilm",
+      "Piratenfilm",
+      "Mantel- und Degenfilm"
+    ],
+    "Alt": [
+      "Abenteuer"
+    ]
+  },
+  "Actionfilm": {
+    "Subgenres": [
+      "Katastrophenfilm",
+      "Actionkomödie",
+      "Heroic Bloodshed"
+    ],
+    "Alt": [
+      "Action",
+      "Hong-Kong-Blut-Oper"
+    ]
+  },
+  "Bollywood":{
+    "Subgenres": [],
+    "Alt": [
+      "Hindi-Film", "Tamilischer Film", "Indischer Film"
+    ]
+  },
+  "Buddy-Film": {
+    "Subgenres": [],
+    "Alt": [
+      "Buddy-Movie"
+    ]
+  },
+  "Comicverfilmung": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Dokumentarfilm": {
+    "Subgenres": [
+      "Kulturfilm",
+      "Phantom Ride",
+      "Propagandafilm"
+    ],
+    "Alt": [
+      "Dokumentation",
+      "Doku",
+      "Filmporträt"
+    ]
+  },
+  "Drama": {
+    "Subgenres": [
+      "Familiendrama",
+      "Dramedy",
+      "Melodram",
+      "Bourekas-Film",
+      "Dokudrama",
+      "Dokufiktion",
+      "Historiendrama",
+      "Actiondrama"
+    ],
+    "Alt": [
+      "Melodrama",
+      "Filmdrama"
+    ]
+  },
+  "Eastern": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Erotikfilm": {
+    "Subgenres": [
+      "Pinku eiga",
+      "Sexfilm",
+      "Lederhosenfilm"
+    ],
+    "Alt": [
+      "Erotik"
+    ]
+  },
+  "Exploitationfilm": {
+    "Subgenres": [
+      "Blaxploitation",
+      "Frauengefängnisfilm",
+      "Naziploitation",
+      "Nunsploitation",
+      "Pinky Violence",
+      "Sexploitationfilm",
+      "Report-Film"
+    ],
+    "Alt": [
+      "WIP",
+      "Sadiconazista"
+    ]
+  },
+  "Fantasyfilm": {
+    "Subgenres": [
+      "Märchenfilm"
+    ],
+    "Alt": [
+      "Fantasy"
+    ]
+  },
+  "Filmbiografie": {
+    "Subgenres": [],
+    "Alt": [
+      "Biografie",
+      "Biographie"
+    ]
+  },
+  "Filmkomödie": {
+    "Subgenres": [
+      "Culture-Clash-Komödie",
+      "Gesellschafts-Satire",
+      "Filmparodie",
+      "Screwball-Komödie",
+      "Slapstick-Komödie",
+      "Verwechslungskomödie",
+      "Stoner-Movie",
+      "Tragikomödie",
+      "Weihnachtskomödie"
+    ],
+    "Alt": [
+      "Gesellschaftssatire",
+      "Komödie",
+      "Parodie",
+      "Slapstick",
+      "Tragik"
+    ]
+  },
+  "Found Footage": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Heimatfilm": {
+    "Subgenres": [
+      "Bergfilm",
+      "Skifilm"
+    ],
+    "Alt": [
+      "Heimat"
+    ]
+  },
+  "Historienfilm": {
+    "Subgenres": [
+      "Heritage-Film",
+      "Samuraifilm",
+      "Wiener Film",
+      "Holocaust-Film"
+    ],
+    "Alt": [
+      "Ken-geki",
+      "Chambara"
+    ]
+  },
+  "Hongkong-Film": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Horrorfilm": {
+    "Subgenres": [
+      "Backwoods-Film",
+      "Gore",
+      "Horrorkomödie",
+      "Kannibalenfilm",
+      "Monsterfilm",
+      "Slasher-Film",
+      "Splatterfilm",
+      "Tierhorrorfilm",
+      "Vampirfilm",
+      "Zombiefilm",
+      "Torture Porn",
+      "Groteske",
+      "Mondo",
+      "Mystery"
+    ],
+    "Alt": [
+      "Horror",
+      "Slasher",
+      "Splatter",
+      "Zombie",
+      "Monster",
+      "Groteskfilm"
+    ]
+  },
+  "Independentfilm": {
+    "Subgenres": [],
+    "Alt": [
+      "Independent"
+    ]
+  },
+  "Kriegsfilm": {
+    "Subgenres": [
+      "Antikriegsfilm"
+    ],
+    "Alt": [
+      "Kriegs",
+      "Antikriegs"
+    ]
+  },
+  "Kriminalfilm": {
+    "Subgenres": [
+      "Detektivfilm",
+      "Film noir",
+      "Gangsterfilm",
+      "Gefängnisfilm",
+      "Gerichtsfilm",
+      "Heist-Movie",
+      "Kriminalkomödie",
+      "Polizeifilm",
+      "Serial-Killer-Film",
+      "Spionagefilm",
+      "Film gris",
+      "Neo-Noir",
+      "Poliziottesco",
+      "Snuff-Film",
+      "Yakuza-Film"
+    ],
+    "Alt": [
+      "Kriminal",
+      "Krimi",
+      "Spy",
+      "Gangster",
+      "Agenten",
+      "Poliziotteschi"
+    ]
+  },
+  "Kunstfilm": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Kurzfilm": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Liebesfilm": {
+    "Subgenres": [
+      "Liebeskomödie"
+    ],
+    "Alt": [
+      "Romanze",
+      "Liebes",
+      "Romantik",
+      "Romantische Komödie",
+      "Rom-Com",
+      "Teenager-Komödie"
+    ]
+  },
+  "Literaturverfilmung": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Martial-Arts-Film": {
+    "Subgenres": [
+      "Jidai-geki",
+      "Bruceploitation",
+      "Wuxia"
+    ],
+    "Alt": [
+      "Martial-Arts",
+      "Martial Arts-Film"
+    ]
+  },
+  "Musikfilm": {
+    "Subgenres": [
+      "Filmmusical",
+      "Musikkomödie",
+      "Tanzfilm",
+      "Grusical",
+      "Revuefilm",
+      "Schlagerfilm"
+    ],
+    "Alt": [
+      "Musical"
+    ]
+  },
+  "Pornofilm": {
+    "Subgenres": [],
+    "Alt": [
+      "Porno"
+    ]
+  },
+  "Racefilm": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Roadmovie": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Schwarz-Weiß-Film": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Science-Fiction-Film": {
+    "Subgenres": [
+      "Endzeitfilm",
+      "Space-Opera"
+    ],
+    "Alt": [
+      "Science-Fiction",
+      "Sci-Fi",
+      "SciFi",
+      "Apokalypsenfilm",
+      "Postapokalyptischer Film",
+      "Postapokalypse"
+    ]
+  },
+  "Spielfilm": {
+    "Subgenres": [
+      "Monumentalfilm",
+      "Kinofilm",
+      "Fernsehfilm",
+      "Dogma-Film"
+    ],
+    "Alt": []
+  },
+  "Sportfilm": {
+    "Subgenres": [
+      "Boxerfilm",
+      "Lucha-Film"
+    ],
+    "Alt": [
+      "Luchador-Film",
+      "Lucha-Libre-Film"
+    ]
+  },
+  "Stummfilm": {
+    "Subgenres": [],
+    "Alt": []
+  },
+  "Trashfilm": {
+    "Subgenres": ["B-Movie"],
+    "Alt": [
+      "Trash"
+    ]
+  },
+  "Trickfilm": {
+    "Subgenres": [
+      "Zeichentrickfilm",
+      "Animationsfilm",
+      "Computeranimationsfilm",
+      "3D-Trickfilm",
+      "CGI",
+      "Anime",
+      "Isekai"
+    ],
+    "Alt": []
+  },
+  "Thriller": {
+    "Subgenres": [
+      "Politthriller",
+      "Psychothriller",
+      "Erotikthriller",
+      "Giallo",
+      "Hitchcockfilm"
+    ],
+    "Alt": []
+  },
+  "Western": {
+    "Subgenres": [
+      "Italo-Western",
+      "Spätwestern",
+      "Anti-Western"
+    ],
+    "Alt": []
+  }
+}

@@ -1,0 +1,214 @@
+Afghanistan $$ afghanisch
+Südafrika $$ südafrikanisch
+Albanien $$ albanisch
+Algerien $$ algerisch
+Deutschland $$ deutsch
+Andorra $$ andorranisch
+Angola $$ angolanisch
+Antigua und Barbuda $$ antiguanisch
+Saudi-Arabien $$ saudi-arabisch
+Argentinien $$ argentinisch
+Armenien $$ armenisch
+Australien $$ australisch
+Österreich $$ österreichisch
+Aserbaidschan $$ aserbaidschanisch
+Bahamas $$ bahamaisch
+Bahrain $$ bahrainisch
+Bangladesch $$ bangladeschisch
+Barbados $$ barbadisch
+Belgien $$ belgisch
+Belize $$ belizisch
+Benin $$ beninisch
+Bhutan $$ bhutanisch
+Weißrussland $$ weißrussisch
+Myanmar $$ myanmarisch
+Bolivien $$ bolivianisch
+Bosnien und Herzegowina $$ bosnisch-herzegowinisch
+Botsuana $$ botsuanisch
+Brasilien $$ brasilianisch
+Brunei $$ bruneiisch
+Bulgarien $$ bulgarisch
+Burkina Faso $$ burkinisch
+Burundi $$ burundisch
+Kambodscha $$ kambodschanisch
+Kamerun $$ kamerunisch
+Kanada $$ kanadisch
+Kap Verde $$ kapverdisch
+Chile $$ chilenisch
+China $$ chinesisch
+Zypern $$ zyprisch
+Kolumbien $$ kolumbianisch
+Komoren $$ komorisch
+Kongo $$ kongolesisch
+Nordkorea $$ nordkoreanisch
+Südkorea $$ südkoreanisch
+Costa Rica $$ costa-ricanisch
+Elfenbeinküste $$ ivorisch
+Kroatien $$ kroatisch
+Kuba $$ kubanisch
+Dänemark $$ dänisch
+Dschibuti $$ dschibutisch
+Dominica $$ dominicanisch
+Ägypten $$ ägyptisch
+Ecuador $$ ecuadorianisch
+Eritrea $$ eritreisch
+Spanien $$ spanisch
+Estland $$ estnisch
+USA $$ amerikanisch
+USA $$ US-amerikanisch
+Äthiopien $$ äthiopisch
+Fidschi $$ fidschianisch
+Finnland $$ finnisch
+Frankreich $$ französisch
+Gabun $$ gabunisch
+Gambia $$ gambisch
+Georgien $$ georgisch
+Ghana $$ ghanaisch
+Griechenland $$ griechisch
+Grenada $$ grenadisch
+Grönland $$ grönländisch
+Guatemala $$ guatemaltekisch
+Guinea $$ guineisch
+Äquatorialguinea $$ äquatorialguineisch
+Guinea-Bissau $$ guinea-bissauisch
+Guyana $$ guyanisch
+Haiti $$ haitianisch
+Honduras $$ honduranisch
+Ungarn $$ ungarisch
+Marshallinseln $$ marshallisch
+Mauritius $$ mauritisch
+Indien $$ indisch
+Indonesien $$ indonesisch
+Irak $$ irakisch
+Iran $$ iranisch
+Irland $$ irisch
+Island $$ isländisch
+Israel $$ israelisch
+Italien $$ italienisch
+Jamaika $$ jamaikanisch
+Japan $$ japanisch
+Jordanien $$ jordanisch
+Kasachstan $$ kasachisch
+Kenia $$ kenianisch
+Kirgisistan $$ kirgisisch
+Kiribati $$ kiribatisch
+Kosovo $$ kosovarisch
+Kuwait $$ kuwaitisch
+Laos $$ laotisch
+Lesotho $$ lesothisch
+Lettland $$ lettisch
+Libanon $$ libanesisch
+Liberia $$ liberianisch
+Libyen $$ libysch
+Liechtenstein $$ liechtensteinisch
+Litauen $$ litauisch
+Luxemburg $$ luxemburgisch
+Mazedonien $$ mazedonisch
+Madagaskar $$ madagassisch
+Malaysia $$ malaysisch
+Malawi $$ malawisch
+Malediven $$ maledivisch
+Mali $$ malisch
+Malta $$ maltesisch
+Marokko $$ marokkanisch
+Mauretanien $$ mauretanisch
+Mexiko $$ mexikanisch
+Mikronesien $$ mikronesisch
+Moldau $$ moldauisch
+Monaco $$ monegassisch
+Mongolei $$ mongolisch
+Montenegro $$ montenegrinisch
+Mosambik $$ mosambikanisch
+Namibia $$ namibisch
+Nauru $$ nauruisch
+Nepal $$ nepalesisch
+Nicaragua $$ nicaraguanisch
+Niger $$ nigrisch
+Nigeria $$ nigerianisch
+Norwegen $$ norwegisch
+Neuseeland $$ neuseeländisch
+Oman $$ omanisch
+Uganda $$ ugandisch
+Usbekistan $$ usbekisch
+Pakistan $$ pakistanisch
+Palau $$ palauisch
+Palästina $$ palästinensisch
+Panama $$ panamaisch
+Papua-Neuguinea $$ papua-neuguineisch
+Paraguay $$ paraguayisch
+Niederlande $$ niederländisch
+Peru $$ peruanisch
+Philippinen $$ philippinisch
+Polen $$ polnisch
+Puerto Rico $$ puerto-ricanisch
+Portugal $$ portugiesisch
+Katar $$ katarisch
+Zentralafrikanische Republik $$ zentralafrikanisch
+Demokratische Republik Kongo $$ kongolesisch
+Republik Kongo $$ kongolesisch
+Dominikanische Republik $$ dominikanisch
+Tschechische Republik $$ tschechisch
+Rumänien $$ rumänisch
+Großbritannien $$ britisch
+Russland $$ russisch
+Ruanda $$ ruandisch
+St. Lucia $$ lucianisch
+San Marino $$ san-marinesisch
+St. Vincent und die Grenadinen $$ vincentisch
+Salomonen $$ salomonisch
+El Salvador $$ salvadorianisch
+Samoa $$ samoanisch
+São Tomé und Príncipe $$ são-toméisch
+Senegal $$ senegalesisch
+Serbien $$ serbisch
+Seychellen $$ seychellisch
+Sierra Leone $$ sierra-leonisch
+Singapur $$ singapurisch
+Slowakei $$ slowakisch
+Slowenien $$ slowenisch
+Somalia $$ somalisch
+Sudan $$ sudanesisch
+Sri Lanka $$ sri-lankisch
+Schweden $$ schwedisch
+Schweiz $$ schweizerisch
+Suriname $$ surinamisch
+Swasiland $$ swasiländisch
+Syrien $$ syrisch
+Tadschikistan $$ tadschikisch
+Taiwan $$ taiwanisch
+Tansania $$ tansanisch
+Tschad $$ tschadisch
+Thailand $$ thailändisch
+Tibet $$ tibetisch
+Timor-Leste $$ timoresisch
+Togo $$ togoisch
+Tonga $$ tongaisch
+Tunesien $$ tunesisch
+Turkmenistan $$ turkmenisch
+Türkei $$ türkisch
+Tuvalu $$ tuvaluisch
+Ukraine $$ ukrainisch
+Uruguay $$ uruguayisch
+Vanuatu $$ vanuatuisch
+Vatikanstadt $$ vatikanisch
+Venezuela $$ venezolanisch
+Vietnam $$ vietnamesisch
+Jemen $$ jemenitisch
+Sambia $$ sambisch
+Simbabwe $$ simbabwisch
+Schottland $$ schottisch
+England $$ englisch
+Wales $$ walisisch
+
+
+
+
+
+
+
+
+
+
+
+
+

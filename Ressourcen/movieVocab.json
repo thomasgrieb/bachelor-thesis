@@ -1,0 +1,64 @@
+{
+  "Bezeichner": {
+    "Film": 1.6,
+    "Spielfilm": 1.6,
+    "Fernsehfilm": 1.6,
+    "Kinofilm": 1.6,
+    "Neuverfilmung": 1,
+    "Adaption": 0.5,
+    "Verfilmung": 0.3,
+    "Filme": -0.2,
+    "Roman": 0.0,
+    "Buch": -0.3,
+    "Buchreihe": -0.5,
+    "Filmgenre": -0.5,
+    "Literatur": -0.5,
+    "Terminus": -0.8,
+    "Band": -1,
+    "Fernsehserie": -1
+  },
+  "Orte": {
+    "Kino": 0.8,
+    "Kinos": 0.8
+  },
+  "Veröffentlichung": {
+    "Premiere": 0.5,
+    "Kinokasse": 1,
+    "Kinokassen": 1,
+    "Oscar": 0.3,
+    "Oscars": 0.3,
+    "Kinostart": 1,
+    "Besucher": 0.5,
+    "Erstausstrahlung": 0.5,
+    "Erstauflage": -1
+  },
+  "Personen": {
+    "Rolle": 0.5,
+    "Hauptrolle": 0.7,
+    "Regie": 0.5,
+    "Produzent": 0.3,
+    "Darsteller": 0.2,
+    "Regisseuers": 0.5,
+    "Regisseur": -0.5,
+    "Schauspieler": -0.5,
+    "Komponist": -0.5
+  },
+  "Weiteres": {
+    "Originaltitel": 0.7,
+    "Studio": 0.8,
+    "Studios": 0.8,
+    "Budget": 0.5,
+    "Verleihtitel": 0.5,
+    "Verleih": 0.4,
+    "Handlung": 0.3,
+    "Produktion": 0.3,
+    "Variante": -0.5,
+    "lateinisch": -0.5,
+    "Genre": -0.5,
+    "Subgenre": -0.5,
+    "Übersetzung": -0.7,
+    "Filmpreis": -0.7,
+    "Subgenres": -1,
+    "Verlag": -1.2
+  }
+}
